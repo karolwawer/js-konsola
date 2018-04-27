@@ -1,0 +1,1 @@
+colnsole.log("Uwielbiam JavaScript!");
