@@ -1,1 +1,1 @@
-colnsole.log("Uwielbiam JavaScript!");
+console.log("Uwielbiam JavaScript!");
